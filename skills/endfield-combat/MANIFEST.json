@@ -1,0 +1,69 @@
+{
+  "skill": "endfield-combat",
+  "schemaVersion": 1,
+  "gameDataBundled": false,
+  "referenceExecutablesBundled": false,
+  "sourceProject": "endfield-tactics-lab, authored engine snapshot",
+  "files": [
+    {
+      "path": "references/combat-model.md",
+      "sha256": "5b6a888698fa4c09735ee376e4ff3c1379343d61632fb69756eace75af1879d0",
+      "bytes": 2232
+    },
+    {
+      "path": "references/replay-input.md",
+      "sha256": "216aa85caa0f0793665c2e2ea43f578cc539305e055ca30c066614cefac70d15",
+      "bytes": 2188
+    },
+    {
+      "path": "scripts/audit-package.py",
+      "sha256": "f0cf8d1c53b350486b37d38fe355c9bc7c546d9c7b569b2a0915f9bfae87c4f5",
+      "bytes": 1535
+    },
+    {
+      "path": "scripts/build-manifest.py",
+      "sha256": "3da2f082e01ecf419163bf0b3f67de22bed51dc97f762b60e290bfb38f3e3745",
+      "bytes": 852
+    },
+    {
+      "path": "scripts/lib/auto-stats.js",
+      "sha256": "ef7e836ecd18502b932808d3ef41ae56ab3ea512f6df196407b04a7d7c665edc",
+      "bytes": 8414
+    },
+    {
+      "path": "scripts/lib/combat-effects.js",
+      "sha256": "756b401ffaa729c2a9d2976c238bc7fa0835609a624f605cf077663c8da4ab27",
+      "bytes": 2745
+    },
+    {
+      "path": "scripts/lib/rotation-model.js",
+      "sha256": "ca84622cce52fed2338df0a60e92a3e72fe8ea8de2229076b69e612d68ef9fd1",
+      "bytes": 28833
+    },
+    {
+      "path": "scripts/lib/rotation-scheduling.js",
+      "sha256": "dff89a0885ea2709d7185cca1cfa7f9c24ce0767e7e087d8a1a6405f71e44ff0",
+      "bytes": 2129
+    },
+    {
+      "path": "scripts/pack-skill.py",
+      "sha256": "7d9d5687675d4fd59c4a0b3f1b69251072bdefe7b1ca0b3a24b5907c0ab506e5",
+      "bytes": 1068
+    },
+    {
+      "path": "scripts/run-axis.mjs",
+      "sha256": "3e7b797ba40be5b823f3b77e9e630044e52aa5f1d5eb37c3a0bb9271b7e1e215",
+      "bytes": 3168
+    },
+    {
+      "path": "SKILL.md",
+      "sha256": "e9f89fe198b7ec9a5204460540441e1132e5a8b0fa01be95eaa41c92d2868866",
+      "bytes": 3214
+    },
+    {
+      "path": "tests/smoke.mjs",
+      "sha256": "5b84f0b616d4901a9d7dc3fab427f4eba474c2149acbe845b439025c0ae71547",
+      "bytes": 3372
+    }
+  ]
+}
