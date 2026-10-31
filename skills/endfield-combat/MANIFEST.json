@@ -12,8 +12,8 @@
     },
     {
       "path": "references/replay-input.md",
-      "sha256": "216aa85caa0f0793665c2e2ea43f578cc539305e055ca30c066614cefac70d15",
-      "bytes": 2188
+      "sha256": "3bee2c54a00030aad6db18006e97bf3330f99cddf171a512aee68bef9be0ff00",
+      "bytes": 2221
     },
     {
       "path": "scripts/audit-package.py",
@@ -57,8 +57,8 @@
     },
     {
       "path": "SKILL.md",
-      "sha256": "e9f89fe198b7ec9a5204460540441e1132e5a8b0fa01be95eaa41c92d2868866",
-      "bytes": 3214
+      "sha256": "6aa79ad6bdba823cd16e4bb18eb9242be0b26815bb83da0ab3bd392288422f57",
+      "bytes": 3378
     },
     {
       "path": "tests/smoke.mjs",

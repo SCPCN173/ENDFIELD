@@ -1,6 +1,6 @@
 # 本地重放输入
 
-Node.js 24+。运行：`node <skill目录>/scripts/run-axis.mjs <输入JSON> [输出JSON]`。只读输入；无第二参数时将JSON报告打印到标准输出。推荐由代理在任务工作目录创建输入文件，不要求普通玩家写JSON。
+Node.js 24+。运行：`node <skill目录>/scripts/run-axis.mjs <输入JSON> [输出JSON]`。只读输入；无第二参数时将JSON报告打印到标准输出。可由任何兼容的前端、脚本或智能体在任务工作目录创建输入文件，不要求普通玩家写JSON。
 
 输入对象：
 
